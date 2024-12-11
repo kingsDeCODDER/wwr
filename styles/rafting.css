@@ -1,0 +1,39 @@
+a{
+  text-decoration:none;
+  color: black
+}
+
+
+.hero image {
+    display: block;
+    width: 100%;
+  }
+
+.hero {
+  position: relative;
+}
+
+h1 {
+  color:darkgray;
+  text-align:center;
+  background-color:rgb(73, 69, 69);
+}
+
+article img{
+    position: absolute;
+    width:100px;
+    height:80px;
+    padding-left:92%;
+}
+
+article{
+    background-color:lightskyblue;
+    float: right;
+}
+
+.im {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
